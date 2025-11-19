@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Open Mocap",
     "author": "Larenju Rai",
-    "version": (1, 0),
+    "version": (1, 0, 0),
     "blender": (4, 0, 0),
     "location": "View3D > Tools",
     "doc_url": "https://github.com/Larenju-Rai/open-mocap-blender",
@@ -64,3 +64,4 @@ def unregister():
 
 if __name__ == "__main__":
     register()
+
